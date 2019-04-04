@@ -1,3 +1,6 @@
+## POINTS: 1.0
+## KEY: You implemented the correct Express router methods to build the web service, but the endpoints just returned test response.
+
 # Express CRUD classwork
 
 Reference here for sample data: https://pokedex.org/#/
